@@ -40,6 +40,12 @@ git clone https://github.com/Nikico009/CH572D_programer.git
 cd CH572D_programer
 ```
 
+And run the installer script for installing automaticly all dependencies:
+
+```bash
+source installer.sh
+```
+
 ## Compilation
 
 Compile the program with:

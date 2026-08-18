@@ -198,7 +198,7 @@ install_minichlink()
 
     local minichlink_path
 
-    minichlink_path="$MINICHLINK_DIR/minichlink"
+    minichlink_path="$MINICHLINK_DIR/minichlink/minichlink"
 
     [[ -d "$MINICHLINK_DIR/minichlink" ]] \
         || die "The minichlink directory was not found in ch32fun."
