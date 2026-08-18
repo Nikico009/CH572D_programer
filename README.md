@@ -1,4 +1,4 @@
-# CH572D Flasher
+# CH572D Flasher (V1.0.0)
 
 A lightweight command-line utility for flashing firmware to the **WCH CH572D** microcontroller on Linux.
 
