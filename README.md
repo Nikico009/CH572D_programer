@@ -28,6 +28,18 @@ The following software is required:
 
 The external tools must be available through the system `PATH`.
 
+## Installation
+
+The installer automatically installs the required system dependencies,
+Python dependencies, `minichlink`, and the CH572D flasher.
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Nikico009/CH572D_programer.git
+cd CH572D_programer
+```
+
 ## Compilation
 
 Compile the program with:
