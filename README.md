@@ -33,13 +33,13 @@ The external tools must be available through the system `PATH`.
 Compile the program with:
 
 ```bash
-gcc -std=c11 -Wall -Wextra -Wpedantic -O2 main.c -o ch572d-flasher
+gcc -std=c11 -Wall -Wextra -Wpedantic -O2 flasher.c -o ch572d-flasher
 ```
 
 For a development build with debugging information, you can use:
 
 ```bash
-gcc -std=c11 -Wall -Wextra -Wpedantic -O0 -g main.c -o ch572d-flasher
+gcc -std=c11 -Wall -Wextra -Wpedantic -O0 -g flasher.c -o ch572d-flasher
 ```
 
 ## Usage
